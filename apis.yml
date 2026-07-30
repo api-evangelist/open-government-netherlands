@@ -1,4 +1,16 @@
 aid: open-government-netherlands
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-government-netherlands.png
 name: Open Government, Netherlands
 description: "Netherlands Government Open Data"
 url: https://data.overheid.nl/en/ondersteuning/data-publiceren/api

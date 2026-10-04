@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Netherlands
     description: "Netherlands Government Open Data"
     humanURL: https://data.overheid.nl/en/ondersteuning/data-publiceren/api
-    baseURL: https://data.overheid.nl/en/ondersteuning/data-publiceren/api
     tags:
       - Government
     properties:
